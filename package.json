@@ -1,0 +1,8 @@
+{
+  "name": "covid-19-estimator-audits-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BuildforSDG-Cohort1-Assessment/covid-19-estimator-audits-js.git",
+  "author": "Charles Odili <chaluwa@gmail.com>",
+  "license": "MIT"
+}
