@@ -8,19 +8,19 @@
         "assertions": {
           "categories:seo": [
             "error",
-            { "aggregationMethod": "optimistic", "minScore": 0.8 }
+            { "aggregationMethod": "optimistic", "minScore": 0.75 }
           ],
           "categories:best-practices": [
             "error",
-            { "aggregationMethod": "optimistic", "minScore": 0.8 }
+            { "aggregationMethod": "optimistic", "minScore": 0.75 }
           ],
           "categories:performance": [
             "error",
-            { "aggregationMethod": "optimistic", "minScore": 0.8 }
+            { "aggregationMethod": "optimistic", "minScore": 0.75 }
           ],
           "categories:accessibility": [
             "error",
-            { "aggregationMethod": "optimistic", "minScore": 0.8 }
+            { "aggregationMethod": "optimistic", "minScore": 0.75 }
           ]
         }
       }
